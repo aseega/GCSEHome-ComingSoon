@@ -18,10 +18,5 @@ export const socials = [
     title: 'GitHub',
     icon: 'mdi:github',
     url: 'https://github.com/user',
-  },
-  {
-    title: 'Dribbble',
-    icon: 'mdi:dribbble',
-    url: 'https://dribbble.com/littlesticksdev',  
   }
 ]
